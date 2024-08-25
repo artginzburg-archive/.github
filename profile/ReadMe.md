@@ -8,3 +8,4 @@ The code is only useful for "how not to" and "how it was done before X".
 - Archived repositories still show up in search and count towards the repository counter visible in profile.
 Storing them in another "organization" helps declutter the main profile, whilst still having the repos available to anyone.
 - [artginzburg](https://github.com/artginzburg)'s archive is a place for repos that are deprecated or unmaintained, but not "obsolete or promote bad coding practices".
+  > It can also serve as a limbo space before repos get to `artginzburg-archive`.
